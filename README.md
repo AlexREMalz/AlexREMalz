@@ -3,7 +3,6 @@
 <h2> About me </h2>
 
 - <b> Pronouns: </b> he/him
-- I am currently a Senior Cyber Security Analyst for an MSSP
 - 🏆 Some of my Certifications include: 
 
 <img align="left" alt="GCFA | Cert" width="75px" src="https://user-images.githubusercontent.com/128556416/234395171-023c1831-e79f-42e8-958c-de2019a9bc7c.png" />
@@ -14,10 +13,6 @@
 <br/>
 <br/>
 <br/>
-
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b>Comming Soon</b>
 
 <h2> 🤳 Connect with me:</h2>
 
